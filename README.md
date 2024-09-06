@@ -1,4 +1,4 @@
-# Página do Refri
+# Página do Refrigerante
 
 Neste projeto tem três seções de refrigerante que são morango, abacate e laranja, onde passamos a página na seta de continuar ou voltar. Em cada seção, tem o nome do refrigerante no fundo,
 a imagem no meio da palavra e ao lado a fruta. 
