@@ -1,6 +1,6 @@
 # Página do Refrigerante
 
-Neste projeto tem três seções de refrigerante que são morango, abacate e laranja, onde passamos a página na seta de continuar ou voltar. Em cada seção, tem o nome do refrigerante no fundo,
+Neste projeto tem três seções de refrigerante que são: morango, abacate e laranja temos também, a seta de continuar ou voltar. Em cada seção, tem o nome do refrigerante no fundo,
 a imagem no meio da palavra e ao lado a fruta. 
 
 ## Índice
@@ -21,7 +21,7 @@ a imagem no meio da palavra e ao lado a fruta.
 ### O desafio
 
 - Testar o conhecimento em HTML, CSS e JavaScript;
-- Colocar o JavaScript para funcionar ao clicar na seta de continuar ou voltar para aparecer a próxima seção;
+- Colocar o JavaScript para funcionar ao clicar na seta de continuar ou voltar com o intuito de, aparecer a próxima seção;
 - Mostrar o conhecimento em mobile.
 
 ### Captura de tela
